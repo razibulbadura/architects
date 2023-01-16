@@ -17,7 +17,8 @@ padding-top: 30px;
 padding-left: 40px;
 
 }
-.secondary-btn{
+.secondary-btn,
+.last-btn{
     font-size: 20px;
     font-weight: 600;
     color: #FFFFFF;
@@ -218,4 +219,14 @@ p img{
     margin: 50px;
     text-align: center;
     padding: 50px 0;
+}
+.btn-txt{
+    text-align: center;
+    background-color: #FF900E;
+    color: #FFFFFF;
+}
+.last-btn{
+    position: relative;
+    top: -150px;
+    left: 800px;
 }
